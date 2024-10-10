@@ -41,6 +41,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you're new to Create React App or React, the following resources will help you deepen your knowledge:
+•	The [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started) offers in-depth details on how to get the most out of CRA, covering topics like deployment, customization, testing, and performance optimization.
+•	To learn more about React as a framework, visit the [React documentation](https://reactjs.org/), where you can find tutorials, guides, and API references.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This README provides a helpful starting point for working with CRA and outlines the key scripts and resources needed to successfully develop and deploy a React application.
