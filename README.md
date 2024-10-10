@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Overview
+This project was bootstrapped with Create React App, which simplifies the setup of a React project by handling the configuration for tools like Babel, Webpack, and ESLint. The goal is to provide a ready-to-go environment where developers can focus on writing React code without worrying about the underlying build configuration.
+
 ## Available Scripts
 
 In the project directory, you can run:
